@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://fahameduluddin.pro.bd/sitemap.xml
+
+# Block unnecessary files
+Disallow: /cdn-cgi/
+Disallow: /*.php$
