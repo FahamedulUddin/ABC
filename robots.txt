@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://fahameduluddin.pro.bd/sitemap.xml
+Sitemap: https://fahamedul.pro.bd/sitemap.xml
 
 # Block unnecessary files
 Disallow: /cdn-cgi/
