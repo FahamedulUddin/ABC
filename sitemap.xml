@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- মূল পেজ -->
+  <url>
+    <loc>https://fahamedul.pro.bd/</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://fahamedul.pro.bd/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fahamedul.pro.bd/"/>
+  </url>
+
+  <!-- index.html -->
+  <url>
+    <loc>https://fahamedul.pro.bd/index.html</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>
